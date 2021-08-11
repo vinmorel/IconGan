@@ -38,6 +38,6 @@ def MakeDataset(url, datasetPath):
 
 if __name__ == "__main__":
     datasetPath = "C:/Users/vin_m/Desktop/Git/IconGan/Dataset/"
-    url = "https://iconarchive.com/download/s350/mad-science/dexters/dexter-1.zip"
+    url = "https://iconarchive.com/download/s520/icehouse/smurf/smurfs.zip"
 
     MakeDataset(url, datasetPath)
