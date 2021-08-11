@@ -1,3 +1,1 @@
 # IconGan
-
-/preprocess.py
